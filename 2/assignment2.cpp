@@ -171,5 +171,7 @@ int main()
 
     deleteMatrix(sparseMatrix, dimensionX);
     delete[] answerValue;
+    delete[] answerColumn;
+    delete[] answerValue;
     return 0;
 }

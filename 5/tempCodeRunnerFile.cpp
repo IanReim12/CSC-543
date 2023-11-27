@@ -1,0 +1,4 @@
+    // if (j == curLength)
+                        // {
+                        //     answer = "";
+                        // }
